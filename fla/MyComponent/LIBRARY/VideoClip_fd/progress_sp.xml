@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="VideoClip_fd/progress_sp" itemID="50f80044-0000037c" lastModified="1358583858" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="progress_sp">
+      <layers>
+        <DOMLayer name="drag_mc" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="VideoClip_fd/drag" name="drag_mc" centerPoint3DX="21.5" centerPoint3DY="18.5">
+                  <matrix>
+                    <Matrix tx="13" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="play_progress" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="VideoClip_fd/bar" name="play_progress" centerPoint3DX="320" centerPoint3DY="10.95">
+                  <matrix>
+                    <Matrix ty="6.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="320" y="4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#980000"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="load_progress" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="VideoClip_fd/bar" name="load_progress" centerPoint3DX="320" centerPoint3DY="10.95">
+                  <matrix>
+                    <Matrix ty="6.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="320" y="4"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#666666"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg_progress" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="VideoClip_fd/bar" name="bg_progress" centerPoint3DX="320" centerPoint3DY="10.95">
+                  <matrix>
+                    <Matrix ty="6.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="320" y="4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

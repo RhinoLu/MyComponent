@@ -1,0 +1,104 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="VideoClip_fd/VideoClip" itemID="50f7d5df-00000328" linkageExportForAS="true" linkageClassName="com.godsmao.ui.VideoPlayer" lastModified="1358823113" lastUniqueIdentifier="5" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="VideoClip">
+      <layers>
+        <DOMLayer name="progress" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="VideoClip_fd/progress_sp" name="progress_sp" centerPoint3DX="57.5" centerPoint3DY="184">
+                  <matrix>
+                    <Matrix ty="173"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="57.5" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn_mute" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="VideoClip_fd/btn_volume" name="btn_mute" centerPoint3DX="73.5" centerPoint3DY="205.5">
+                  <matrix>
+                    <Matrix tx="56" ty="188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.5" y="17.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn_play" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="VideoClip_fd/btn_play" name="btn_play" centerPoint3DX="17.5" centerPoint3DY="205.5">
+                  <matrix>
+                    <Matrix ty="188"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.5" y="17.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="VideoClip_fd/mask.png">
+                  <matrix>
+                    <Matrix a="3.19999694824219" ty="188"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="container" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="VideoClip_fd/streetvoice_video_container" name="container" centerPoint3DX="264.5" centerPoint3DY="161.5">
+                  <transformationPoint>
+                    <Point x="264.5" y="161.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="black" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6400 3600S2/0 3600!0 3600/0 0!0 0|6400 0!6400 0/6400 3600"/>
+                    <Edge cubics="!6400 0(;6400,0 6400,3600 6400,3600q6400 0 6400 3600);"/>
+                    <Edge cubics="!0 3600(;0,3600 0,0 0,0q0 3600 0 0);"/>
+                    <Edge cubics="!0 0(;0,0 6400,0 6400,0q0 0 6400 0);"/>
+                    <Edge cubics="!6400 3600(;6400,3600 0,3600 0,3600q6400 3600 0 3600);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

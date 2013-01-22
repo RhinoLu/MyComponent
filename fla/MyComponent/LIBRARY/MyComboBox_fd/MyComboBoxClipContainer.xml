@@ -1,0 +1,83 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MyComboBox_fd/MyComboBoxClipContainer" itemID="50f7bba1-0000064b" lastModified="1358583337" lastUniqueIdentifier="23" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="MyComboBoxClipContainer">
+      <layers>
+        <DOMLayer name="MyComboBoxClip" color="#9933CC" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBoxClip" centerPoint3DX="100" centerPoint3DY="55">
+                  <matrix>
+                    <Matrix ty="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBoxClip" centerPoint3DX="100" centerPoint3DY="25">
+                  <transformationPoint>
+                    <Point x="100" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBoxClip" centerPoint3DX="100" centerPoint3DY="85">
+                  <matrix>
+                    <Matrix ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBoxClip" centerPoint3DX="100" centerPoint3DY="115">
+                  <matrix>
+                    <Matrix ty="90"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBoxClip" centerPoint3DX="100" centerPoint3DY="145">
+                  <matrix>
+                    <Matrix ty="120"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBoxClip" centerPoint3DX="100" centerPoint3DY="175">
+                  <matrix>
+                    <Matrix ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3000 1000S2/0 1000!0 1000/0 0!0 0/3000 0!3000 0/3000 1000"/>
+                    <Edge cubics="!0 0(;0,0 3000,0 3000,0q0 0 3000 0);"/>
+                    <Edge cubics="!3000 0(;3000,0 3000,1000 3000,1000q3000 0 3000 1000);"/>
+                    <Edge cubics="!0 1000(;0,1000 0,0 0,0q0 1000 0 0);"/>
+                    <Edge cubics="!3000 1000(;3000,1000 0,1000 0,1000q3000 1000 0 1000);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

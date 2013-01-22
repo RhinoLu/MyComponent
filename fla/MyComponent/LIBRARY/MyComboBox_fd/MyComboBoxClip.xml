@@ -1,0 +1,83 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MyComboBox_fd/MyComboBoxClip" itemID="50f7b0dc-000005e3" linkageExportForAS="true" linkageClassName="com.godsmao.ui.MyComboBoxClip" lastModified="1358822010" lastUniqueIdentifier="3" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="MyComboBoxClip" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="value_txt" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="value_txt" fontRenderingMode="standard" width="113" height="26" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="6" ty="6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="13" bitmapSize="260" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!3000 0S1/0 0!0 0/0 600!0 600/3000 600!3000 600/3000 0"/>
+                    <Edge cubics="!3000 600(;3000,600 3000,0 3000,0q3000 600 3000 0);"/>
+                    <Edge cubics="!0 0(;0,0 0,600 0,600q0 0 0 600);"/>
+                    <Edge cubics="!0 600(;0,600 3000,600 3000,600q0 600 3000 600);"/>
+                    <Edge cubics="!3000 0(;3000,0 0,0 0,0q3000 0 0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#C2BFDD"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!3000 0/0 0!0 0/0 600!0 600/3000 600!3000 600/3000 0"/>
+                    <Edge cubics="!3000 600(;3000,600 3000,0 3000,0q3000 600 3000 0);"/>
+                    <Edge cubics="!0 0(;0,0 0,600 0,600q0 0 0 600);"/>
+                    <Edge cubics="!0 600(;0,600 3000,600 3000,600q0 600 3000 600);"/>
+                    <Edge cubics="!3000 0(;3000,0 0,0 0,0q3000 0 0 0);"/>
+                    <Edge cubics="!-110 -1860(;-110,-1860 -110,-1340 -110,-1340q-110 -1860 -110 -1340);"/>
+                    <Edge cubics="!-630 -1340(;-630,-1340 -630,-1860 -630,-1860q-630 -1340 -630 -1860);"/>
+                    <Edge cubics="!-630 -1860(;-630,-1860 -110,-1860 -110,-1860q-630 -1860 -110 -1860);"/>
+                    <Edge cubics="!-110 -1340(;-110,-1340 -630,-1340 -630,-1340q-110 -1340 -630 -1340);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

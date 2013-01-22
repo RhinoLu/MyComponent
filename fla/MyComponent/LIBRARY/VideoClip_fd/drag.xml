@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="VideoClip_fd/drag" itemID="50f7ff6f-00000370" lastModified="1358430233">
+  <timeline>
+    <DOMTimeline name="drag" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B0B0B0"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!58 -58[82 -33 82 0!82 0[82 35 58 58!58 58[33 82 0 82!0 82[-34 82 -58 58!-58 58[-82 35 -82 0!-82 0[-82 -33 -58 -58!-58 -58[-34 -82 0 -82!0 -82[33 -82 58 -58"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#980000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!58 -58[82 -33 82 0!82 0[82 35 58 58!58 58[33 82 0 82!0 82[-34 82 -58 58!-58 58[-82 35 -82 0!-82 0[-82 -33 -58 -58!-58 -58[-34 -82 0 -82!0 -82[33 -82 58 -58"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F4F4F4"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!121 -120[170 -70 170 0!170 0[170 71 121 120!121 120[70 170 0 170!0 170[-70 170 -120 120!-120 120[-170 71 -170 0!-170 0[-170 -70 -120 -120!-120 -120[-70 -170 0 -170!0 -170[70 -170 121 -120"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

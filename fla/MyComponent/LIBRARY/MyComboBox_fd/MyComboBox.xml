@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MyComboBox_fd/MyComboBox" itemID="50f7b0d1-000005e2" linkageExportForAS="true" linkageClassName="com.godsmao.ui.MyComboBox" lastModified="1358822007" lastUniqueIdentifier="12" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="MyComboBox">
+      <layers>
+        <DOMLayer name="scroll_sp" color="#9933CC" current="true" isSelected="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/ComboScrollBar_fd/scroll_sp" selected="true" centerPoint3DX="129.5" centerPoint3DY="151.5">
+                  <matrix>
+                    <Matrix tx="128" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.5" y="120.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="container" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBoxClipContainer" name="container" centerPoint3DX="323.95" centerPoint3DY="264.45">
+                  <matrix>
+                    <Matrix ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="_mask" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBoxMask" name="_mask" centerPoint3DX="75" centerPoint3DY="131">
+                  <matrix>
+                    <Matrix ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="100"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBoxBtn" name="btn" centerPoint3DX="324.95" centerPoint3DY="15.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,234 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="600" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" viewAngle3D="74.2651684569298" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <folders>
+          <DOMFolderItem name="MyComboBox_fd" itemID="50f7b0c0-000005e0" isExpanded="true"/>
+          <DOMFolderItem name="MyComboBox_fd/ComboScrollBar_fd" itemID="50f8bec3-00000359" isExpanded="true"/>
+          <DOMFolderItem name="MyScrollBar_fd" itemID="50fce5e8-00000236" isExpanded="true"/>
+          <DOMFolderItem name="VideoClip_fd" itemID="50f7d602-0000032b" isExpanded="true"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="VideoClip_fd/mask.png" itemID="50ed6172-000002ce" sourceExternalFilepath="./LIBRARY/VideoClip_fd/mask.png" sourceLastImported="1357729717" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="VideoClip_fd/mask.png" bitmapDataHRef="M 4 1358479117.dat" frameRight="2000" frameBottom="520"/>
+          <DOMBitmapItem name="VideoClip_fd/play_pause.png" itemID="50ed174a-000003c1" sourceExternalFilepath="./LIBRARY/VideoClip_fd/play_pause.png" sourceLastImported="1357715098" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="VideoClip_fd/play_pause.png" bitmapDataHRef="M 5 1358479117.dat" frameRight="1120" frameBottom="520"/>
+          <DOMBitmapItem name="VideoClip_fd/play_play.png" itemID="50ed174a-000003c2" sourceExternalFilepath="./LIBRARY/VideoClip_fd/play_play.png" sourceLastImported="1357715109" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="VideoClip_fd/play_play.png" bitmapDataHRef="M 6 1358479117.dat" frameRight="1120" frameBottom="520"/>
+          <DOMBitmapItem name="VideoClip_fd/volume_mute.png" itemID="50ed174a-000003c3" sourceExternalFilepath="./LIBRARY/VideoClip_fd/volume_mute.png" sourceLastImported="1357715139" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="VideoClip_fd/volume_mute.png" bitmapDataHRef="M 7 1358479117.dat" frameRight="640" frameBottom="520"/>
+          <DOMBitmapItem name="VideoClip_fd/volume_unmute.png" itemID="50ed174a-000003c4" sourceExternalFilepath="./LIBRARY/VideoClip_fd/volume_unmute.png" sourceLastImported="1357715130" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="VideoClip_fd/volume_unmute.png" bitmapDataHRef="M 8 1358479117.dat" frameRight="640" frameBottom="520"/>
+     </media>
+     <symbols>
+          <Include href="cont_sp.xml" loadImmediate="false" itemID="50fd1434-00000255" lastModified="1358763225"/>
+          <Include href="mask_sp.xml" loadImmediate="false" itemID="50fd142e-00000252" lastModified="1358763054"/>
+          <Include href="MyComboBox_fd/ComboScrollBar_fd/bar.xml" loadImmediate="false" itemID="50fa3ff9-00000255" lastModified="1358585554"/>
+          <Include href="MyComboBox_fd/ComboScrollBar_fd/bg.xml" loadImmediate="false" itemID="50fa4002-00000256" lastModified="1358577666"/>
+          <Include href="MyComboBox_fd/ComboScrollBar_fd/btn.xml" loadImmediate="false" itemID="50fa4006-00000257" lastModified="1358585494"/>
+          <Include href="MyComboBox_fd/ComboScrollBar_fd/position_helper.xml" loadImmediate="false" itemID="50fa4016-00000258" lastModified="1358577716"/>
+          <Include href="MyComboBox_fd/ComboScrollBar_fd/scroll_sp.xml" itemID="50fa411d-0000026e" lastModified="1358822003"/>
+          <Include href="MyComboBox_fd/MyComboBox.xml" itemID="50f7b0d1-000005e2" lastModified="1358822007"/>
+          <Include href="MyComboBox_fd/MyComboBoxBtn.xml" loadImmediate="false" itemID="50f7b0e4-000005e4" lastModified="1358583524"/>
+          <Include href="MyComboBox_fd/MyComboBoxClip.xml" itemID="50f7b0dc-000005e3" lastModified="1358822010"/>
+          <Include href="MyComboBox_fd/MyComboBoxClipContainer.xml" loadImmediate="false" itemID="50f7bba1-0000064b" lastModified="1358583337"/>
+          <Include href="MyComboBox_fd/MyComboBoxMask.xml" loadImmediate="false" itemID="50f7ba52-00000648" lastModified="1358412370"/>
+          <Include href="MyScrollBar_fd/bar.xml" loadImmediate="false" itemID="50fce5cf-0000022e" lastModified="1358585554"/>
+          <Include href="MyScrollBar_fd/bg.xml" loadImmediate="false" itemID="50fce5cf-00000231" lastModified="1358577666"/>
+          <Include href="MyScrollBar_fd/btn.xml" loadImmediate="false" itemID="50fce5cf-0000022d" lastModified="1358585494"/>
+          <Include href="MyScrollBar_fd/position_helper.xml" loadImmediate="false" itemID="50fce5cf-00000230" lastModified="1358577716"/>
+          <Include href="MyScrollBar_fd/scroll_sp.xml" itemID="50fce5cf-0000022b" lastModified="1358822014"/>
+          <Include href="VideoClip_fd/bar.xml" loadImmediate="false" itemID="50f7fefe-00000357" lastModified="1358583865"/>
+          <Include href="VideoClip_fd/btn_play.xml" loadImmediate="false" itemID="50ed1170-00000330" lastModified="1357715216"/>
+          <Include href="VideoClip_fd/btn_volume.xml" loadImmediate="false" itemID="50ed1173-00000331" lastModified="1357715250"/>
+          <Include href="VideoClip_fd/drag.xml" loadImmediate="false" itemID="50f7ff6f-00000370" lastModified="1358430233"/>
+          <Include href="VideoClip_fd/progress_sp.xml" loadImmediate="false" itemID="50f80044-0000037c" lastModified="1358583858"/>
+          <Include href="VideoClip_fd/streetvoice_video_container.xml" loadImmediate="false" itemID="50ed11b5-00000345" lastModified="1358583731"/>
+          <Include href="VideoClip_fd/VideoClip.xml" itemID="50f7d5df-00000328" lastModified="1358823113"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="ScrollBar" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="61.9" height="19.95" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="535" ty="12"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>ScrollBar</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="15" bitmapSize="300" face="MicrosoftJhengHeiRegular" fillColor="#333333"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="scroll" color="#808080" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MyScrollBar_fd/scroll_sp" name="scroll" centerPoint3DX="740" centerPoint3DY="140">
+                                             <matrix>
+                                                  <Matrix tx="730" ty="40"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="10" y="100"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="cont_sp" color="#4FFFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="cont_sp" name="cont_sp" centerPoint3DX="630.5" centerPoint3DY="721.45">
+                                             <matrix>
+                                                  <Matrix tx="531" ty="40"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="99.5" y="681.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="mask_sp" color="#FF4FFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="mask_sp" name="mask_sp" centerPoint3DX="631" centerPoint3DY="140">
+                                             <matrix>
+                                                  <Matrix tx="531" ty="40"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="100" y="100"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="YoutubeClip" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="100" height="19.95" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="181" ty="332"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>YoutubeClip</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="15" bitmapSize="300" face="MicrosoftJhengHeiRegular" fillColor="#333333"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="VideoClip" color="#4FFFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="100" height="19.95" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="187" ty="12"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>VideoClip</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="15" bitmapSize="300" face="MicrosoftJhengHeiRegular" fillColor="#333333"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="myVideoClip" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="VideoClip_fd/VideoClip" name="myVideoPlayer" centerPoint3DX="505" centerPoint3DY="233">
+                                             <matrix>
+                                                  <Matrix tx="185" ty="40"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="320" y="193"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="ComboBox" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" width="100" height="19.95" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="12" ty="12"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>ComboBox</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="15" bitmapSize="300" face="MicrosoftJhengHeiRegular" fillColor="#333333"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="myComboBox" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="MyComboBox_fd/MyComboBox" name="myComboBox" centerPoint3DX="85" centerPoint3DY="155.5">
+                                             <matrix>
+                                                  <Matrix tx="10" ty="40"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="75" y="115.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="141740" publishTime="1358823117"/>
+          <PublishItem publishSize="97369" publishTime="1358821889"/>
+          <PublishItem publishSize="97368" publishTime="1358821877"/>
+          <PublishItem publishSize="97396" publishTime="1358821855"/>
+          <PublishItem publishSize="97396" publishTime="1358821802"/>
+          <PublishItem publishSize="97401" publishTime="1358821792"/>
+          <PublishItem publishSize="97399" publishTime="1358821681"/>
+          <PublishItem publishSize="141587" publishTime="1358763234"/>
+          <PublishItem publishSize="141563" publishTime="1358763172"/>
+          <PublishItem publishSize="53756" publishTime="1358761530"/>
+          <PublishItem publishSize="52594" publishTime="1358750868"/>
+          <PublishItem publishSize="52594" publishTime="1358750839"/>
+          <PublishItem publishSize="52573" publishTime="1358750784"/>
+          <PublishItem publishSize="6066" publishTime="1358750768"/>
+          <PublishItem publishSize="6065" publishTime="1358750755"/>
+          <PublishItem publishSize="51629" publishTime="1358750468"/>
+          <PublishItem publishSize="51454" publishTime="1358585341"/>
+          <PublishItem publishSize="51446" publishTime="1358585311"/>
+          <PublishItem publishSize="51454" publishTime="1358585222"/>
+          <PublishItem publishSize="51454" publishTime="1358584902"/>
+     </publishHistory>
+</DOMDocument>
